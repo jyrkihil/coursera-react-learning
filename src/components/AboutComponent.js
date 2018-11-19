@@ -86,10 +86,8 @@ function About(props) {
                 <div className="col-12">
                     <h2>Corporate Leadership</h2>
                 </div>
-                <div className="col-12">
-                    
+                <div className="col-12">          
                     { leaders }
-                    
                 </div>
             </div>
         </div>
