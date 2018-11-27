@@ -3,3 +3,15 @@ body {
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.nav-item .fa:before {
+  padding-right: 10px;
+}
+
+.nav-item .fa {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item .fa:before {
+  font-family: FontAwesome;
+}
